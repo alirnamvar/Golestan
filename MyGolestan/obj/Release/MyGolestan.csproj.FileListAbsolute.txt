@@ -1,0 +1,14 @@
+C:\Users\alirn\Desktop\AP\MyGolestan\MyGolestan\bin\Release\MyGolestan.exe.config
+C:\Users\alirn\Desktop\AP\MyGolestan\MyGolestan\bin\Release\MyGolestan.exe
+C:\Users\alirn\Desktop\AP\MyGolestan\MyGolestan\bin\Release\MyGolestan.pdb
+C:\Users\alirn\Desktop\AP\MyGolestan\MyGolestan\obj\Release\MyGolestan.csproj.AssemblyReference.cache
+C:\Users\alirn\Desktop\AP\MyGolestan\MyGolestan\obj\Release\MyGolestan.csproj.SuggestedBindingRedirects.cache
+C:\Users\alirn\Desktop\AP\MyGolestan\MyGolestan\obj\Release\MyGolestan.MainPage.resources
+C:\Users\alirn\Desktop\AP\MyGolestan\MyGolestan\obj\Release\MyGolestan.Properties.Resources.resources
+C:\Users\alirn\Desktop\AP\MyGolestan\MyGolestan\obj\Release\MyGolestan.SignUpEmployeeForm.resources
+C:\Users\alirn\Desktop\AP\MyGolestan\MyGolestan\obj\Release\MyGolestan.SignUpProfessorForm.resources
+C:\Users\alirn\Desktop\AP\MyGolestan\MyGolestan\obj\Release\MyGolestan.SignUpStudentForm.resources
+C:\Users\alirn\Desktop\AP\MyGolestan\MyGolestan\obj\Release\MyGolestan.csproj.GenerateResource.cache
+C:\Users\alirn\Desktop\AP\MyGolestan\MyGolestan\obj\Release\MyGolestan.csproj.CoreCompileInputs.cache
+C:\Users\alirn\Desktop\AP\MyGolestan\MyGolestan\obj\Release\MyGolestan.exe
+C:\Users\alirn\Desktop\AP\MyGolestan\MyGolestan\obj\Release\MyGolestan.pdb
